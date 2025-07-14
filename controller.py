@@ -1,5 +1,5 @@
 from download_emoji_bot import download_emoji
-from upload_emoji_bot import upload_emoji
+from slack_upload_emoji_bot import upload_emoji
 
 
 def main():
